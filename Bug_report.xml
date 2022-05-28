@@ -1,0 +1,10 @@
+ <xml>
+   <p1>"project: study"</p1>
+   <p2>"issue_type: bug"</p2>
+   <p3>"severity: major"</p3>
+   <p4>"environment: Windows 10, x64, Google Chrome"</p5>
+   <p5>"summary: "The 'create' button is unclickable after filling in all required fields"</p5>
+   <p6>"steps to reproduce: Go to the website..."</p6>
+   <p7>"actual result: The 'create' button is active after filling in all required fields"</p7>
+   <p8>"expected result: There is no ability to create a new account"</p8>
+   <p9>"error type: functional"</p9>
